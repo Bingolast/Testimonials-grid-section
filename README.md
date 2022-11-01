@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/Bingolast/Testimonials-grid-section/blob/main/testimonials-grid-section-main/Testimonials.jpg?raw=true)
+![image]([https://github.com/Bingolast/Testimonials-grid-section/blob/main/testimonials-grid-section-main/Testimonials.jpg?raw=true](https://github.com/Bingolast/Testimonials-grid-section/blob/main/Testimonials.jpg?raw=true))
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
